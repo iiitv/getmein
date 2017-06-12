@@ -19,4 +19,5 @@ Your GitHub profile won't show you as a part of IIITV's organization. To make yo
 
 ## Do not belong to IIITV?
 
-No problem, you are still welcome to our [Outsiders](https://github.com/orgs/iiitv/teams/outsiders) team.
+No problem, you are still welcome to our [Outsiders](https://github.com/orgs/iiitv/teams/outsiders) team.  
+And do not forget to mention that you are an outsider in the issue you create.
