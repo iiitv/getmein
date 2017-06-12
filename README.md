@@ -16,3 +16,8 @@ Your GitHub profile won't show you as a part of IIITV's organization. To make yo
 * Join the [team](https://github.com/orgs/iiitv/teams) for your batch (`batch-of-20XX`).
 * Solve issues in [organisation's repositories](https://github.com/iiitv/repositories).
 * Create your project and collaborate with others.
+
+## Do not belong to IIITV?
+
+No problem, you are still welcome to our [Outsiders](https://github.com/orgs/iiitv/teams/outsiders) team.  
+And do not forget to mention that you are an outsider in the issue you create.
